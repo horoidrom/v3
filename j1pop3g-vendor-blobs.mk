@@ -103,4 +103,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1pop3g/proprietary/media/battery_error.qmg:system/media/battery_error.qmg \
     vendor/samsung/j1pop3g/proprietary/media/chargingwarning.qmg:system/media/chargingwarning.qmg \
     vendor/samsung/j1pop3g/proprietary/xbin/zram.sh:system/xbin/zram.sh \
-    vendor/samsung/j1pop3g/proprietary/media/Disconnected.qmg:system/media/Disconnected.qmg
+    vendor/samsung/j1pop3g/proprietary/media/Disconnected.qmg:system/media/Disconnected.qmgs
