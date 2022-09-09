@@ -48,10 +48,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1pop3g/proprietary/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_calibration.ini:system/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_calibration.ini \
     vendor/samsung/j1pop3g/proprietary/etc/firmware/sc2331_fw.bin:system/etc/firmware/sc2331_fw.bin \
     vendor/samsung/j1pop3g/proprietary/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
-	vendor/samsung/j1pop3g/proprietary/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
-	vendor/samsung/j1pop3g/proprietary/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \	
-	vendor/samsung/j1pop3g/proprietary/etc/bluetooth/iop_device_list.conf:system/etc/bluetooth/iop_device_list.conf \
-	vendor/samsung/j1pop3g/proprietary/etc/bluetooth/iop_bt.db:system/etc/bluetooth/iop_bt.db \
+    vendor/samsung/j1pop3g/proprietary/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
+    vendor/samsung/j1pop3g/proprietary/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \	
+    vendor/samsung/j1pop3g/proprietary/etc/bluetooth/iop_device_list.conf:system/etc/bluetooth/iop_device_list.conf \
+    vendor/samsung/j1pop3g/proprietary/etc/bluetooth/iop_bt.db:system/etc/bluetooth/iop_bt.db \
     vendor/samsung/j1pop3g/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/j1pop3g/proprietary/lib/libsamsungeffect.so:system/lib/libsamsungeffect.so \
     vendor/samsung/j1pop3g/proprietary/lib/libSamsungPkcs11Wrapper.so:system/lib/libSamsungPkcs11Wrapper.so \
