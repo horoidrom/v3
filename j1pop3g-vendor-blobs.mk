@@ -15,6 +15,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1pop3g/proprietary/bin/prepare_param.sh:system/bin/prepare_param.sh \
     vendor/samsung/j1pop3g/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/j1pop3g/proprietary/bin/gps.cer:system/bin/gps.cer \	
+##################    
     vendor/samsung/j1pop3g/proprietary/xbin/zram.sh:system/xbin/zram.sh \
     vendor/samsung/j1pop3g/proprietary/etc/wifi/mcs.ini:system/etc/wifi/mcs.ini \
     vendor/samsung/j1pop3g/proprietary/etc/audio_hw.xml:system/etc/audio_hw.xml \
