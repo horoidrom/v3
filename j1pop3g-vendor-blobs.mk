@@ -44,7 +44,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1pop3g/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
     vendor/samsung/j1pop3g/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/samsung/j1pop3g/proprietary/etc/firmware/sc2331_fdl.bin:system/etc/firmware/sc2331_fdl.bin \
-    vendor/samsung/j1pop3g/proprietary/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_configure.ini.bin:system/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_configure.ini \
+    vendor/samsung/j1pop3g/proprietary/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_configure.ini:system/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_configure.ini \
     vendor/samsung/j1pop3g/proprietary/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_calibration.ini:system/etc/firmware/scx35_pikeavivaltove_3M_MARLIN_connectivity_calibration.ini \
     vendor/samsung/j1pop3g/proprietary/etc/firmware/sc2331_fw.bin:system/etc/firmware/sc2331_fw.bin \
     vendor/samsung/j1pop3g/proprietary/etc/bluetooth/auto_pair_devlist.conf:system/etc/bluetooth/auto_pair_devlist.conf \
