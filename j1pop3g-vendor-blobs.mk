@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j1pop3g/proprietary/bin/lpm:system/bin/lpm \
     vendor/samsung/j1pop3g/proprietary/bin/at_distributor:system/bin/at_distributor \
     vendor/samsung/j1pop3g/proprietary/bin/engpc:system/bin/engpc \
-    vendor/samsung/j1pop3g/proprietary/bin/download:system/bin/download \
     vendor/samsung/j1pop3g/proprietary/bin/macloader:system/bin/macloader \
     vendor/samsung/j1pop3g/proprietary/bin/mfgloader:system/bin/mfgloader \
     vendor/samsung/j1pop3g/proprietary/bin/rild:system/bin/rild \
